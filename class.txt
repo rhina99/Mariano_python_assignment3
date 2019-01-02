@@ -1,0 +1,35 @@
+# This is the standard list of 30 students for testing purposes.
+# This list must be loaded each time your program runs.
+#
+# You can still enter additional data into the program as before.
+#
+Kevin 109 16 14 12 10 9 10
+Sarah 117 16 17 13 14 12 13
+Thomas 118 16 17 10 12 10 11
+Liang 119 17 19 15 15 14 14
+Alan 120 19 18 14 14 14 13
+Karen 110 16 17 12 15 13 14
+Ursula 128 15 14 12 12 13 14
+Mary 111 18 17 12 12 13 12
+Michael 112 12 13 10 11 12 11
+Nicolas 113 16 18 12 13 13 13
+Warren 127 17 16 12 13 12 13
+Violet 129 15 17 15 14 0 15
+Olivier 114 10 12 0 10 10 10
+Anne 101 18 19 12 13 13 14
+Dave 102 19 20 14 13 15 14
+Tony 115 14 13 12 10 11 11
+Susan 116 16 14 14 12 13 14
+Emma 124 20 20 15 15 15 15
+Eloise 125 15 15 12 13 13 12
+Martha 126 16 14 10 11 12 11
+Alex 100 17 19 13 12 12 13
+Ted 103 19 18 15 13 15 14
+Alice 104 19 18 15 15 15 14
+Bob 105 17 16 14 13 13 14
+Julie 106 16 15 14 14 13 14
+Bruce 121 19 18 13 14 15 12
+Jean 107 17 18 15 14 15 13
+George 108 18 17 12 14 15 15
+Gordon 122 18 19 14 15 15 14
+Lucie 123 18 18 14 13 14 13
